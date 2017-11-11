@@ -6,9 +6,4 @@ i am adding more stuff to it
 this is new stuff
 i am on final branch hey
 i am so bored
-<<<<<<< HEAD
 i am trying out new stuff buddy !!! 
-hey there i am back 
-=======
-i am trying out new stuff buddy !!! 
->>>>>>> 427ffcc6ef3640ebe92ea6731d293e11cc7af27a
